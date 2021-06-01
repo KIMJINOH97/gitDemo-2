@@ -1,7 +1,8 @@
 #include <stdio.h>
-
-int main(){
-	// hi hello
-	printf("hello");
-	return 0;
+/*
+demo test
+*/
+int main() {
+  printf("<h1>Hello, Hongik!</h>");
+  return 0;
 }
